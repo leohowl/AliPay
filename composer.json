@@ -1,0 +1,21 @@
+{
+    "name": "leohowl/yii2-alipay",
+    "description": "yii2-alipay packages",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leohowl",
+            "email": "leo_howl@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "PHP": ">= 5.5"
+    },
+	"autoload": {
+        "psr-4": {
+            "leohowl\\" : "alipay/"
+        }
+    }
+}
