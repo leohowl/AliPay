@@ -1,6 +1,6 @@
 {
     "name": "leohowl/yii2-alipay",
-    "description": "yii2-alipay packages",
+    "description": "yii2 alipay sdk",
     "type": "library",
     "license": "MIT",
     "authors": [
